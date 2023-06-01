@@ -32,3 +32,17 @@ jobs:
                   PUBLISH_BRANCH: kingtam.cf
                   PUBLISH_DIR: ./public
                   commit_message: ${{ github.event.head_commit.message }}
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: rsync deployments
+              uses: burnett01/rsync-deployments@5.2.1
+              with:
+                switches: -avzr --delete
+                path: ./public/*
+                remote_path: /apps/blog-kingtam-cf/html/
+                remote_host: ${{ secrets.DEPLOY_KINGTAM_CF_HOST }}
+                remote_port: ${{ secrets.DEPLOY_KINGTAM_CF_PORT }}
+                remote_user: ${{ secrets.DEPLOY_KINGTAM_CF_USER }}
+                remote_key: ${{ secrets.DEPLOY_KINGTAM_CF_KEY }}

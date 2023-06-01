@@ -12,20 +12,6 @@ if git diff-index --quiet HEAD --; then
     exit 0
 fi
 
-###=== Rsync to Other Domain Folders
-# Rsync contents to kingsir.eu.org
-cp -rp ./content/* ../kingsir.eu.org/content/
-
-# Rsync static to kingsir.eu.org
-cp -rp ./static/* ../kingsir.eu.org/static/
-
-# Rsync contents to kingtam.eu.org
-cp -rp ./content/* ../kingtam.eu.org/content/
-
-# Rsync static to kingtam.eu.org
-cp -rp ./static/* ../kingtam.eu.org/static/
-###=== Rsync complete
-
 
 # Prompt for a commit message
 #read -p "Enter a commit message: " commit_message
@@ -39,7 +25,7 @@ COMMIT_TIMESTAMP=`date +'%Y-%m-%d %H:%M:%S %Z'`
 git commit -m "Automated commit on ${COMMIT_TIMESTAMP}"
 
 # Push the changes to the remote repository
-git push -f
+git push -uf
 
 
 # Push the changes to kingsir.eu.org
