@@ -43,7 +43,6 @@ jobs:
         switches: -avzr --delete
         path: public/
         remote_path: /apps/blog-kingtam-cf/html/
-        remote_path: /apps/blog-kingtam-cf/html/
         remote_host: ${{ secrets.DEPLOY_KINGTAM_CF_HOST }}
         remote_port: ${{ secrets.DEPLOY_KINGTAM_CF_PORT }}
         remote_user: ${{ secrets.DEPLOY_KINGTAM_CF_USER }}
