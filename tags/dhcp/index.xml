@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dhcp on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/dhcp/</link>
+    <description>Recent content in dhcp on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 11:14:32 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/dhcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Linux as a DHCP and DNS Server</title>
+      <link>https://blog.kingtam.cf/posts/alpine-dhcp-dns/</link>
+      <pubDate>Fri, 26 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-dhcp-dns/</guid>
+      <description>dnsmasq is a lightweight, easy-to-configure DHCP and DNS server. I&amp;rsquo;ll demonstrate how to set up dnsmasq as both a DHCP and DNS server on a Linux system.
+Procedure Procedure Network Card Configuration : Network Card Configuration 1 ip address The physical interface eth1 is used to set up DHCP and DNS services.
+1 2 3 4 5 6 7 8 cat &amp;gt;&amp;gt; /etc/network/interfaces &amp;lt;&amp;lt; EOF auto eth1 iface eth1 inet static address 192.</description>
+    </item>
+    
+  </channel>
+</rss>

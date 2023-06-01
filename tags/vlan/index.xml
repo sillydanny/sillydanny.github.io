@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vlan on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/vlan/</link>
+    <description>Recent content in vlan on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 13:39:16 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/vlan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring VLANs on a Host for PVE (Proxmox VE)</title>
+      <link>https://blog.kingtam.cf/posts/pve-host-vlan/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/pve-host-vlan/</guid>
+      <description>Configuring VLANs on a Host for Proxmox VE In today&amp;rsquo;s increasingly complex networking environments, Virtual Local Area Networks (VLANs) have become a crucial tool for managing network traffic and ensuring optimal performance.
+This blog post provides a step-by-step guide on configuring VLANs on a host for Proxmox Virtual Environment (VE), a popular open-source virtualization platform.
+Why use VLANs with Proxmox VE? VLANs allow you to segregate network traffic into isolated broadcast domains, improving security and reducing network congestion.</description>
+    </item>
+    
+  </channel>
+</rss>

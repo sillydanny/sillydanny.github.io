@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>bash on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/bash/</link>
+    <description>Recent content in bash on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 11:03:51 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Linux Customizations</title>
+      <link>https://blog.kingtam.cf/posts/alpine-customization/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-customization/</guid>
+      <description>One of the benefits of using Alpine Linux is its flexibility and customizability, which allows users to tailor the system to their specific needs.
+Setting the timezone Check the current timezone
+1 date Timezone setting
+1 setup-timezone Which timezone are you in? (&amp;rsquo;?&amp;rsquo; for list) [UTC] Asia/Hong_Kong
+Suppose you want to use the Asia/ timezone and Hong_Kong as the sub-timezone of &amp;lsquo;Asia/&amp;rsquo;. You can input &amp;lsquo;?&amp;rsquo; to list the timezones to choose from.</description>
+    </item>
+    
+  </channel>
+</rss>

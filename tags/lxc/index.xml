@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>lxc on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/lxc/</link>
+    <description>Recent content in lxc on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 May 2023 14:55:24 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/lxc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing CUPS on PVE&#39;s LXC Container System</title>
+      <link>https://blog.kingtam.cf/posts/pve-lxc-cups/</link>
+      <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/pve-lxc-cups/</guid>
+      <description>Installing CUPS on PVE&amp;rsquo;s LXC Container System Introduction: At home, I use a Canon LBP6030 USB printer connected to a Padavan system on a router (Youku1) to enable wireless printing. However, wireless printing can only be achieved on the Windows platform, and on systems such as macOS and IOS from Apple, it cannot be achieved, causing some inconvenience.
+I came across this post on SMZDM N1刷armbian變身打印服務器, which can install CUPS software as a printer server system, and thus the following content was recorded.</description>
+    </item>
+    
+    <item>
+      <title>Managing LXC in Proxmox Virtual Environment (PVE)</title>
+      <link>https://blog.kingtam.cf/posts/pve-lxc/</link>
+      <pubDate>Mon, 29 May 2023 13:08:23 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/pve-lxc/</guid>
+      <description>We will explore the syntax of managing LXC using PVE. Use commands that are commonly used by system administrators and cover the basics of creating, removing, and managing LXC in PVE.
+What&amp;rsquo;s LXC? LXC is a user space interface for the Linux kernel containment features. Through a powerful API and simple tools, it lets Linux users easily create and manage system or application containers.
+Template Image Creating an LXC in PVE is to download a template image.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux-based LXC with Docker support on a PVE host</title>
+      <link>https://blog.kingtam.cf/posts/alpine-lxc-docker/</link>
+      <pubDate>Thu, 25 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-lxc-docker/</guid>
+      <description>Setting up an Alpine Linux-based Container (LXC) with Docker support on a Proxmox Virtual Environment (PVE) host.
+Lightweight and secure: Alpine Linux is a lightweight and secure distribution of Linux that is ideal for use in containers. It has a small footprint and is designed to minimize attack surface, making it a good choice for running Docker containers. Flexibility: Using an LXC container allows you to run multiple instances of Docker on a single host, each with its own isolated environment and resources.</description>
+    </item>
+    
+  </channel>
+</rss>

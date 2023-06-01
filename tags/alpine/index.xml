@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alpine on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/alpine/</link>
+    <description>Recent content in alpine on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 12:08:55 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/alpine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set up SmartDNS in Alpine Linux (LXC)</title>
+      <link>https://blog.kingtam.cf/posts/alpine-smartdns/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-smartdns/</guid>
+      <description>Set up SmartDNS in Alpine Linux (LXC) SmartDNS is a local DNS server that retrieves DNS query results from multiple upstream DNS servers and delivers the fastest results to clients. It supports secure DNS protocols such as DoT (DNS over TLS) and DoH (DNS over HTTPS), providing enhanced privacy protection, avoiding DNS pollution, and improving network access speed. Additionally, SmartDNS supports high-performance ad filtering for an overall better browsing experience</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux share the terminal over the web (ttyd)</title>
+      <link>https://blog.kingtam.cf/posts/alpine-ttyd/</link>
+      <pubDate>Fri, 26 May 2023 12:03:43 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-ttyd/</guid>
+      <description>What is ttyd? What is ttyd? ttyd is a simple command-line program that allows you to share a terminal session over the web. It provides a web-based terminal interface for interacting with a Linux system, making it possible to access the system remotely from a web browser.
+Install ttyd in Alpine Linux Install ttyd in Alpine Linux Open the terminal and type the following command to update the packages list:</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux as a DHCP and DNS Server</title>
+      <link>https://blog.kingtam.cf/posts/alpine-dhcp-dns/</link>
+      <pubDate>Fri, 26 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-dhcp-dns/</guid>
+      <description>dnsmasq is a lightweight, easy-to-configure DHCP and DNS server. I&amp;rsquo;ll demonstrate how to set up dnsmasq as both a DHCP and DNS server on a Linux system.
+Procedure Procedure Network Card Configuration : Network Card Configuration 1 ip address The physical interface eth1 is used to set up DHCP and DNS services.
+1 2 3 4 5 6 7 8 cat &amp;gt;&amp;gt; /etc/network/interfaces &amp;lt;&amp;lt; EOF auto eth1 iface eth1 inet static address 192.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux-based LXC with Docker support on a PVE host</title>
+      <link>https://blog.kingtam.cf/posts/alpine-lxc-docker/</link>
+      <pubDate>Thu, 25 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-lxc-docker/</guid>
+      <description>Setting up an Alpine Linux-based Container (LXC) with Docker support on a Proxmox Virtual Environment (PVE) host.
+Lightweight and secure: Alpine Linux is a lightweight and secure distribution of Linux that is ideal for use in containers. It has a small footprint and is designed to minimize attack surface, making it a good choice for running Docker containers. Flexibility: Using an LXC container allows you to run multiple instances of Docker on a single host, each with its own isolated environment and resources.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux Customizations</title>
+      <link>https://blog.kingtam.cf/posts/alpine-customization/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-customization/</guid>
+      <description>One of the benefits of using Alpine Linux is its flexibility and customizability, which allows users to tailor the system to their specific needs.
+Setting the timezone Check the current timezone
+1 date Timezone setting
+1 setup-timezone Which timezone are you in? (&amp;rsquo;?&amp;rsquo; for list) [UTC] Asia/Hong_Kong
+Suppose you want to use the Asia/ timezone and Hong_Kong as the sub-timezone of &amp;lsquo;Asia/&amp;rsquo;. You can input &amp;lsquo;?&amp;rsquo; to list the timezones to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux Package Management Tool</title>
+      <link>https://blog.kingtam.cf/posts/alpine-apk/</link>
+      <pubDate>Wed, 24 May 2023 09:12:41 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-apk/</guid>
+      <description>About The package management tool used in Alpine Linux is apk. apk is a fast, lightweight, and efficient package management tool that has the following features:
+Native support for cross-compilation and cross-platform installation. Automatic handling of dependencies when installing and uninstalling packages. Support for multiple repositories, including official repositories, community repositories, and personal repositories. Simple command-line interface that allows users to perform various operations such as search, install, upgrade, and uninstall.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Installation</title>
+      <link>https://blog.kingtam.cf/posts/alpine-installation/</link>
+      <pubDate>Wed, 24 May 2023 09:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-installation/</guid>
+      <description>Why Alpine Linux Alpine Linux is a lightweight, security-focused, rolling release distribution with a fast and efficient package manager. It is highly customizable and compatible with a wide range of hardware architectures, making it suitable for use in a variety of environments.
+Preparation Download the Alpine Linux ISO image file from the official website: https://alpinelinux.org/downloads/ Write the ISO image file to a USB drive using a tool such as Rufus or Etcher.</description>
+    </item>
+    
+  </channel>
+</rss>

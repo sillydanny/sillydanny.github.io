@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>apk on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/apk/</link>
+    <description>Recent content in apk on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 09:12:41 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/apk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Linux Package Management Tool</title>
+      <link>https://blog.kingtam.cf/posts/alpine-apk/</link>
+      <pubDate>Wed, 24 May 2023 09:12:41 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/alpine-apk/</guid>
+      <description>About The package management tool used in Alpine Linux is apk. apk is a fast, lightweight, and efficient package management tool that has the following features:
+Native support for cross-compilation and cross-platform installation. Automatic handling of dependencies when installing and uninstalling packages. Support for multiple repositories, including official repositories, community repositories, and personal repositories. Simple command-line interface that allows users to perform various operations such as search, install, upgrade, and uninstall.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ethool on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/ethool/</link>
+    <description>Recent content in ethool on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 13:04:14 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/ethool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PVE (Proxmox VE) Multi-port Identification</title>
+      <link>https://blog.kingtam.cf/posts/pve-network-port/</link>
+      <pubDate>Tue, 30 May 2023 13:04:14 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/posts/pve-network-port/</guid>
+      <description>PVE (Proxmox VE) Multi-port Identification About: This is a post about network card (multiple ports) identification in the PVE system. Through the ethtool command, you can easily find the corresponding location of each network port.
+Operation Steps: Take Intel EXPI9402PTBLK 82571GB Network Adapter as an example
+Install the ethtool command
+1 apt update &amp;amp;&amp;amp; apt install ethtool -y ethtool can be used to view network device driver parameters and hardware configuration.</description>
+    </item>
+    
+  </channel>
+</rss>

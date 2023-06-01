@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/categories/</link>
+    <description>Recent content in Categories on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 13:39:16 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://blog.kingtam.cf/categories/linux/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVE</title>
+      <link>https://blog.kingtam.cf/categories/pve/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/categories/pve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://blog.kingtam.cf/categories/windows/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

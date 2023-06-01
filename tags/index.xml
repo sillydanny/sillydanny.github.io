@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on King&#39;s Blog</title>
+    <link>https://blog.kingtam.cf/tags/</link>
+    <description>Recent content in Tags on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 13:39:16 +0800</lastBuildDate><atom:link href="https://blog.kingtam.cf/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vlan</title>
+      <link>https://blog.kingtam.cf/tags/vlan/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/vlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethool</title>
+      <link>https://blog.kingtam.cf/tags/ethool/</link>
+      <pubDate>Tue, 30 May 2023 13:04:14 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/ethool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frp</title>
+      <link>https://blog.kingtam.cf/tags/frp/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/frp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frpc</title>
+      <link>https://blog.kingtam.cf/tags/frpc/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/frpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winsw</title>
+      <link>https://blog.kingtam.cf/tags/winsw/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/winsw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cups</title>
+      <link>https://blog.kingtam.cf/tags/cups/</link>
+      <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/cups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lxc</title>
+      <link>https://blog.kingtam.cf/tags/lxc/</link>
+      <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/lxc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT</title>
+      <link>https://blog.kingtam.cf/tags/ct/</link>
+      <pubDate>Mon, 29 May 2023 13:08:23 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/ct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alpine</title>
+      <link>https://blog.kingtam.cf/tags/alpine/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/alpine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dns</title>
+      <link>https://blog.kingtam.cf/tags/dns/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartdns</title>
+      <link>https://blog.kingtam.cf/tags/smartdns/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/smartdns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttyd</title>
+      <link>https://blog.kingtam.cf/tags/ttyd/</link>
+      <pubDate>Fri, 26 May 2023 12:03:43 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/ttyd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dhcp</title>
+      <link>https://blog.kingtam.cf/tags/dhcp/</link>
+      <pubDate>Fri, 26 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/dhcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dnsmasq</title>
+      <link>https://blog.kingtam.cf/tags/dnsmasq/</link>
+      <pubDate>Fri, 26 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/dnsmasq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://blog.kingtam.cf/tags/docker/</link>
+      <pubDate>Thu, 25 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://blog.kingtam.cf/tags/bash/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOTD</title>
+      <link>https://blog.kingtam.cf/tags/motd/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/motd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neovim</title>
+      <link>https://blog.kingtam.cf/tags/neovim/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/neovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSH</title>
+      <link>https://blog.kingtam.cf/tags/ssh/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>useradd</title>
+      <link>https://blog.kingtam.cf/tags/useradd/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/useradd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apk</title>
+      <link>https://blog.kingtam.cf/tags/apk/</link>
+      <pubDate>Wed, 24 May 2023 09:12:41 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/apk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://blog.kingtam.cf/tags/installation/</link>
+      <pubDate>Wed, 24 May 2023 09:03:51 +0800</pubDate>
+      
+      <guid>https://blog.kingtam.cf/tags/installation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
