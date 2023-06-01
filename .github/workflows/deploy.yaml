@@ -18,7 +18,7 @@ jobs:
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
-                  hugo-version: '0.112.1'
+                  hugo-version: '0.112.5'
                   extended: true
 
             - name: Build Web
@@ -28,8 +28,7 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   PERSONAL_TOKEN: ${{ secrets.GH_PAGE_ACTION_TOKEN }}
-                  EXTERNAL_REPOSITORY: sillydanny/blog-kingtam-cf
+                  EXTERNAL_REPOSITORY: sillydanny/sillydanny.github.io.git
                   PUBLISH_BRANCH: kingtam.cf
                   PUBLISH_DIR: ./public
                   commit_message: ${{ github.event.head_commit.message }}
-                  cname: blog.kingtam.cf
