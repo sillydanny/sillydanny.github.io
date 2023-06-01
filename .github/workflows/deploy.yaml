@@ -1,48 +1,59 @@
 name: deploy
 
 on:
-    push:
-    workflow_dispatch:
+  push:
+  workflow_dispatch:
 
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v2
-              with:
-                  submodules: true
-                  fetch-depth: 0
+  build:
+      runs-on: ubuntu-latest
+      steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+            with:
+                submodules: true
+                fetch-depth: 0
 
-            - name: Setup Hugo
-              uses: peaceiris/actions-hugo@v2
-              with:
-                  hugo-version: '0.112.5'
-                  extended: true
+          - name: Setup Hugo
+            uses: peaceiris/actions-hugo@v2
+            with:
+                hugo-version: '0.112.5'
+                extended: true
 
-            - name: Build Web
-              run: hugo
+          - name: Build Web
+            run: hugo
 
-            - name: Deploy Web
-              uses: peaceiris/actions-gh-pages@v3
-              with:
-                  PERSONAL_TOKEN: ${{ secrets.GH_PAGE_ACTION_TOKEN }}
-                  EXTERNAL_REPOSITORY: sillydanny/sillydanny.github.io
-                  PUBLISH_BRANCH: kingtam.cf
-                  PUBLISH_DIR: ./public
-                  commit_message: ${{ github.event.head_commit.message }}
-    deploy:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v2
-            - name: rsync deployments
-              uses: burnett01/rsync-deployments@5.2.1
-              with:
-                switches: -avzr --delete
-                path: .
-                remote_path: /apps/blog-kingtam-cf/html/
-                remote_host: ${{ secrets.DEPLOY_KINGTAM_CF_HOST }}
-                remote_port: ${{ secrets.DEPLOY_KINGTAM_CF_PORT }}
-                remote_user: ${{ secrets.DEPLOY_KINGTAM_CF_USER }}
-                remote_key: ${{ secrets.DEPLOY_KINGTAM_CF_KEY }}
+          - name: Deploy Web
+            uses: peaceiris/actions-gh-pages@v3
+            with:
+                PERSONAL_TOKEN: ${{ secrets.GH_PAGE_ACTION_TOKEN }}
+                EXTERNAL_REPOSITORY: sillydanny/sillydanny.github.io
+                PUBLISH_BRANCH: kingtam.cf
+                PUBLISH_DIR: ./public
+                commit_message: ${{ github.event.head_commit.message }}
+on:
+  push:
+    branches: [ kingtam.cf ]
+  pull_request:
+    branches: [ kingtam.cf ]
+
+jobs:
+  deploy-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Do a git checkout including submodules
+        uses: actions/checkout@master
+        with:
+          submodules: true
+
+      - name: Generate and deploy website
+        uses: ronvanderheijden/hugo-rsync-deployment@master
+        env:
+          VPS_DEPLOY_KEY: ${{ secrets.DEPLOY_KINGTAM_CF_KEY }}
+          VPS_DEPLOY_USER: ${{ secrets.DEPLOY_KINGTAM_CF_USER }}
+          VPS_DEPLOY_HOST: ${{ secrets.DEPLOY_KINGTAM_CF_HOST }}
+          VPS_DEPLOY_DEST: /apps/blog-kingtam-cf/html/
+        with:
+          hugo-arguments: '--minify'
+          rsync-arguments: '--archive --compress --xattrs --delete'
