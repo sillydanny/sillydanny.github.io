@@ -33,22 +33,17 @@ jobs:
                 PUBLISH_BRANCH: kingtam.cf
                 PUBLISH_DIR: ./public
                 commit_message: ${{ github.event.head_commit.message }}
-
-  deploy-website:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Do a git checkout including submodules
-        uses: actions/checkout@master
-        with:
-          submodules: true
-
-      - name: Generate and deploy website
-        uses: ronvanderheijden/hugo-rsync-deployment@master
-        env:
-          VPS_DEPLOY_KEY: ${{ secrets.DEPLOY_KINGTAM_CF_KEY }}
-          VPS_DEPLOY_USER: ${{ secrets.DEPLOY_KINGTAM_CF_USER }}
-          VPS_DEPLOY_HOST: ${{ secrets.DEPLOY_KINGTAM_CF_HOST }}
-          VPS_DEPLOY_DEST: /apps/blog-kingtam-cf/html/
-        with:
-          hugo-arguments: '--minify'
-          rsync-arguments: '--archive --compress --xattrs --delete'
+    - uses: actions/checkout@v2
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@5.2.1
+      with:
+        switches: -avzr --delete
+        path: public/
+        remote_path: ${{ secrets.DEPLOY_PATH }}
+        remote_host: ${{ secrets.DEPLOY_HOST }}
+        remote_port: ${{ secrets.DEPLOY_PORT }}
+        remote_user: ${{ secrets.DEPLOY_USER }}
+        remote_key: ${{ secrets.DEPLOY_KEY }}
