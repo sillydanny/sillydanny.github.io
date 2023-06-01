@@ -3,7 +3,8 @@ name: deploy
 on:
   push:
   workflow_dispatch:
-
+  pull_request:
+    branches: [ kingtam.cf ]
 
 jobs:
   build:
@@ -32,13 +33,7 @@ jobs:
                 PUBLISH_BRANCH: kingtam.cf
                 PUBLISH_DIR: ./public
                 commit_message: ${{ github.event.head_commit.message }}
-on:
-  push:
-    branches: [ kingtam.cf ]
-  pull_request:
-    branches: [ kingtam.cf ]
 
-jobs:
   deploy-website:
     runs-on: ubuntu-latest
     steps:
