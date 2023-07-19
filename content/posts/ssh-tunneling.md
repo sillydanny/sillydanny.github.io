@@ -6,10 +6,12 @@ author: "King Tam"
 summary: "SSH Tunneling" 
 showToc: true
 categories:
-- 
+- Linux 
 tags:
-- 
-- 
+- ssh
+- proxy
+- socks
+- tunnel
 ShowLastMod: true
 cover:
     image: "img/ssh-tunnels/ssh-tunneling.jpg"
