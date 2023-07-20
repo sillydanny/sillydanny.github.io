@@ -85,7 +85,14 @@ rm "arpl-$newversion.img.zip"
 ![2023-07-06_114000](/img/pve-dsm/2023-07-06_114000.png)
 
 ```bash
-qm create "$VMID" --name DSM --memory 4096 --sockets 1 --cores 2 --cpu host --net0 virtio,bridge=vmbr0 --ostype l26
+qm create "$VMID" \
+  --name DSM \
+  --memory 4096 \
+  --sockets 1 \
+  --cores 2 \
+  --cpu host \
+  --net0 virtio,bridge=vmbr0 \
+  --ostype l26
 ```
 
 | Command                    | Description                                                  |
@@ -105,6 +112,7 @@ qm create "$VMID" --name DSM --memory 4096 --sockets 1 --cores 2 --cpu host --ne
 ![2023-07-06_114028](/img/pve-dsm/2023-07-06_114028.png)
 
 ```bash
+image="/var/lib/vz/template/iso/arpl.img
 qm importdisk "$VMID" "$image" local-lvm
 qm set "$VMID" -sata0 local-lvm:vm-$VMID-disk-0
 qm set "$VMID" --boot c --bootdisk sata0
