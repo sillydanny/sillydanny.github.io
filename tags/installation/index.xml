@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Installation on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/installation/</link>
+    <description>Recent content in Installation on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 09:03:51 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Installation</title>
+      <link>https://www.kingtam.tk/posts/alpine-installation/</link>
+      <pubDate>Wed, 24 May 2023 09:03:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-installation/</guid>
+      <description>Why Alpine Linux Alpine Linux is a lightweight, security-focused, rolling release distribution with a fast and efficient package manager. It is highly customizable and compatible with a wide range of hardware architectures, making it suitable for use in a variety of environments.
+Preparation Download the Alpine Linux ISO image file from the official website: https://alpinelinux.org/downloads/ Write the ISO image file to a USB drive using a tool such as Rufus or Etcher.</description>
+    </item>
+    
+  </channel>
+</rss>

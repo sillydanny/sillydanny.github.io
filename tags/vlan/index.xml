@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vlan on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/vlan/</link>
+    <description>Recent content in vlan on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 10:41:05 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/vlan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cisco - Inter-VLAN Routing (Router on a Stick)</title>
+      <link>https://www.kingtam.tk/posts/cisco-inter-vlan/</link>
+      <pubDate>Fri, 16 Jun 2023 10:41:05 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-inter-vlan/</guid>
+      <description>Cisco - Inter-VLAN Routing (Router on a Stick)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - DHCP Relay Agent (IP Helper)</title>
+      <link>https://www.kingtam.tk/posts/cisco-ip-helper/</link>
+      <pubDate>Thu, 15 Jun 2023 11:05:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ip-helper/</guid>
+      <description>Cisco - DHCP Relay Agent (IP Helper)</description>
+    </item>
+    
+    <item>
+      <title>Setting a static IP address in Linux</title>
+      <link>https://www.kingtam.tk/posts/linux-static-ip/</link>
+      <pubDate>Fri, 02 Jun 2023 12:16:06 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/linux-static-ip/</guid>
+      <description>Introduction: Usually, IP addresses are dynamically assigned by the router&amp;rsquo;s DHCP server on most network devices. But using a static IP address on the server makes the provided services more stable. If the DHCP server is not working, it will affect the computers in the local area network to obtain IP addresses, thereby affecting access to services, while servers with static IP addresses are not affected, so static IP is also necessary (on devices providing services).</description>
+    </item>
+    
+    <item>
+      <title>Configuring VLANs on a Host for PVE (Proxmox VE)</title>
+      <link>https://www.kingtam.tk/posts/pve-host-vlan/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-host-vlan/</guid>
+      <description>Configuring VLANs on a Host for Proxmox VE In today&amp;rsquo;s increasingly complex networking environments, Virtual Local Area Networks (VLANs) have become a crucial tool for managing network traffic and ensuring optimal performance.
+This blog post provides a step-by-step guide on configuring VLANs on a host for Proxmox Virtual Environment (VE), a popular open-source virtualization platform.
+Why use VLANs with Proxmox VE? VLANs allow you to segregate network traffic into isolated broadcast domains, improving security and reducing network congestion.</description>
+    </item>
+    
+  </channel>
+</rss>

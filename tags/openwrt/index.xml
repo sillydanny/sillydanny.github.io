@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenWRT on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/openwrt/</link>
+    <description>Recent content in OpenWRT on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 14:11:49 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy OpenWrt with Docker Compose</title>
+      <link>https://www.kingtam.tk/posts/docker-openwrt/</link>
+      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/docker-openwrt/</guid>
+      <description>Use Docker to deploy OpenWrt with Docker Compose, it&amp;rsquo;s easy to create and manage containers, making it an ideal solution for deploying OpenWrt on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>RSYNC USAGE</title>
+      <link>https://www.kingtam.tk/posts/rsync-usage/</link>
+      <pubDate>Thu, 08 Jun 2023 14:37:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rsync-usage/</guid>
+      <description>Introduction Rsync is an open-source application that provides fast incremental or mirror backup by leveraging built-in data deduplication algorithms. It is included in almost all Linux distributions.
+Features Can update whole directory trees and filesystems Optionally preserves symbolic links, hard links, file ownership, permissions, devices and times Requires no special privileges to install Internal pipelining reduces latency for multiple files Can use rsh, ssh or direct sockets as the transport Supports anonymous rsync which is ideal for mirroring Basic Use 1 rsync -option source/ destination/ Option Description -v Verbose mode, outputs detailed information -r Recurse into directories -a Archive mode (-rlptgoD, no -A, -X, -U, -N, -H) -h Output numbers in a human-readable format -z Use compression to transfer data -e Specify the remote shell to use -P Same as &amp;ndash;partial &amp;ndash;progress -W Copy files whole (without delta-xfer algorithm) &amp;ndash;progress Show progress during transfer &amp;ndash;delete Delete extraneous files from destination directories &amp;ndash;remove-source-files Sender removes synchronized files (non-dir) &amp;ndash;exclude=PATTERN Exclude files matching PATTERN &amp;ndash;include=PATTERN Don&amp;rsquo;t exclude files matching PATTERN &amp;ndash;copy-as=USER[:GROUP] Specify user and optional group for the copy &amp;ndash;chmod=CHMOD Affect file and/or directory permissions Samples 1 rsync -avh /home/user/data/ /mnt/backup Copy /home/user/data/ (as source directory) to /mnt/backup (as destination directory), using the options -avh.</description>
+    </item>
+    
+  </channel>
+</rss>
