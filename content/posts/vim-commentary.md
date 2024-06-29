@@ -134,6 +134,21 @@ uncomments
 
 ---
 
+### File Type Supported
+
+> These filetypes include TOML, plain text, C, C++, C#, Java, Kotlin, YAML, and Apache configuration files.
+
+Insert the command in the `.vimrc` file
+
+~~~bash
+cat >> ~/.vimrc << EOF
+autocmd FileType toml,txt,c,cpp,cs,java,kotlin,yaml,apache setlocal commentstring=#\ %s
+EOF
+~~~
+
+
+---
+
 ### Conclusion:
 
 The vim-commentary plug-in significantly enhances text editing efficiency. 

@@ -193,6 +193,26 @@ Once have completed these steps, log out and back in again to ensure the changes
 
 ---
 
+### Install Docker Compose Plugin V2 On Synology DSM 7
+
+
+1. SSH in into Synology NAS. Then copy and paste the commands below. 
+
+~~~bash
+DOCKER_CONFIG=${DOCKER_CONFIG:-/usr/local/lib/docker}
+mkdir -p $DOCKER_CONFIG/cli-plugins
+curl -SL https://github.com/docker/compose/releases/download/v2.28.1/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
+sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+~~~
+
+2. Test that it works 
+
+~~~bash
+docker compose version
+~~~
+
+
+---
 ### Install VIM-PLUG on Synology DSM
 
 1. Download `plug.vim` and put it in the "autoload" directory.
