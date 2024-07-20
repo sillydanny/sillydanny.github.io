@@ -316,6 +316,22 @@ Add the following syntax to the end of the file:
 ## This will start the job at 1:00 a.m. every day.
 ~~~
 
+#### 3. Others
+> Create a copy of the directory structure from the 2023-2024/ directory in the 2024-2025 directory
+
+~~~bash
+rsync -a --include '*/' --exclude '*' 2023-2024/ 2024-2025
+~~~
+
+| Option                | Description                         |
+| ------------------- | ----------------------------------- |
+| -a    |  "archive" mode           |
+| --include '*/' | includes all directories (*/) |
+| --exclude '*' | excludes all files (*) |
+| 2023-2024/ | Existing Folder |
+| 2024-2025 | New Folder |
+
+
 ---
 
 ### Conclusion
