@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cangjie on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/cangjie/</link>
+    <description>Recent content in Cangjie on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2024 15:34:12 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/cangjie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install FCITX Input Method on LMDE</title>
+      <link>https://www.kingtam.tk/posts/input/</link>
+      <pubDate>Tue, 05 Mar 2024 15:34:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/input/</guid>
+      <description>Install FCITX Input Method on LMDE</description>
+    </item>
+    
+  </channel>
+</rss>

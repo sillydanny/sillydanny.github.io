@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Office on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/office/</link>
+    <description>Recent content in Office on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 16:28:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/office/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download and Deploy Microsoft Office</title>
+      <link>https://www.kingtam.tk/posts/office/</link>
+      <pubDate>Fri, 30 Jun 2023 16:28:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/office/</guid>
+      <description>Download and Deploy Microsoft Office</description>
+    </item>
+    
+    <item>
+      <title>Windows and Office Activation Guide (KMS)</title>
+      <link>https://www.kingtam.tk/posts/kms/</link>
+      <pubDate>Fri, 30 Jun 2023 16:22:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/kms/</guid>
+      <description>Windows and Office Activation Guide (KMS)</description>
+    </item>
+    
+  </channel>
+</rss>
