@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>frp on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/frp/</link>
+    <description>Recent content in frp on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 10:06:48 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/frp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use WINSW To Setup FRP As Windows Service</title>
+      <link>https://www.kingtam.tk/posts/winsw-frpc/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/winsw-frpc/</guid>
+      <description>About: WinSW is a utility that allows you to wrap and manage a Windows service for any executable.
+frpc is a client for the frp (Fast Reverse Proxy) tool, which enables you to expose local servers to the internet.
+Procedure: To set up frpc as a Windows service using WinSW, follow these steps:
+Download WinSW Download the latest release of WinSW from the releases page. Choose the appropriate executable for your system, either WinSW-x64.</description>
+    </item>
+    
+  </channel>
+</rss>

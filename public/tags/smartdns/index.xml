@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>smartdns on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/smartdns/</link>
+    <description>Recent content in smartdns on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 12:08:55 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/smartdns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set up SmartDNS in Alpine Linux (LXC)</title>
+      <link>https://www.kingtam.tk/posts/alpine-smartdns/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-smartdns/</guid>
+      <description>Set up SmartDNS in Alpine Linux (LXC) SmartDNS is a local DNS server that retrieves DNS query results from multiple upstream DNS servers and delivers the fastest results to clients. It supports secure DNS protocols such as DoT (DNS over TLS) and DoH (DNS over HTTPS), providing enhanced privacy protection, avoiding DNS pollution, and improving network access speed. Additionally, SmartDNS supports high-performance ad filtering for an overall better browsing experience</description>
+    </item>
+    
+  </channel>
+</rss>

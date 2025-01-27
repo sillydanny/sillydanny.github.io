@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ttyd on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/ttyd/</link>
+    <description>Recent content in ttyd on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 14:35:21 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/ttyd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ttyd: Access Your Linux Terminal via Web Browser</title>
+      <link>https://www.kingtam.tk/posts/ttyd/</link>
+      <pubDate>Mon, 24 Jul 2023 14:35:21 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ttyd/</guid>
+      <description>ttyd: Access Your Linux Terminal via Web Browser</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux share the terminal over the web (ttyd)</title>
+      <link>https://www.kingtam.tk/posts/alpine-ttyd/</link>
+      <pubDate>Fri, 26 May 2023 12:03:43 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-ttyd/</guid>
+      <description>What is ttyd? What is ttyd? ttyd is a simple command-line program that allows you to share a terminal session over the web. It provides a web-based terminal interface for interacting with a Linux system, making it possible to access the system remotely from a web browser.
+Install ttyd in Alpine Linux Install ttyd in Alpine Linux Open the terminal and type the following command to update the packages list:</description>
+    </item>
+    
+  </channel>
+</rss>

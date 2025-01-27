@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ESXi on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/categories/esxi/</link>
+    <description>Recent content in ESXi on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2023 14:42:29 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/esxi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</title>
+      <link>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</link>
+      <pubDate>Tue, 11 Jul 2023 14:42:29 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</guid>
+      <description>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</description>
+    </item>
+    
+    <item>
+      <title>How to Shrink VMDK Virtual Disk Size on VMWare ESXi</title>
+      <link>https://www.kingtam.tk/posts/vmdk-shrink/</link>
+      <pubDate>Wed, 05 Jul 2023 09:07:57 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/vmdk-shrink/</guid>
+      <description>How to Shrink VMDK Virtual Disk Size on VMWare ESXi</description>
+    </item>
+    
+    <item>
+      <title>Export VM to OVA using OVF Tool on VMware ESXi</title>
+      <link>https://www.kingtam.tk/posts/ova-export/</link>
+      <pubDate>Tue, 04 Jul 2023 16:15:25 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ova-export/</guid>
+      <description>Export VM to OVA using OVF Tool on VMware ESXi</description>
+    </item>
+    
+    <item>
+      <title>Deploy a Virtual Machine from an OVA File in the VMware ESXi</title>
+      <link>https://www.kingtam.tk/posts/esxi-deploy-vm/</link>
+      <pubDate>Mon, 12 Jun 2023 11:40:21 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-deploy-vm/</guid>
+      <description>Deploy a Virtual Machine from an OVA File in the VMware ESXi
+Web Deploy Limitation OVA deployment is limited to files under 1 GB in size due to Web browser limitations. To deploy an OVA file greater than 1 GB, extract the OVA file using tar and provide the OVF and VMDK files separately.
+Breakdown Limitation To deploy a large OVA file, Use OVFTool Command to Deploy OVA Packages is better solution.</description>
+    </item>
+    
+    <item>
+      <title>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli</title>
+      <link>https://www.kingtam.tk/posts/esxi-upgrade/</link>
+      <pubDate>Sat, 03 Jun 2023 14:38:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-upgrade/</guid>
+      <description>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli Preparation: Before deploying a host upgrade, ensure that all virtual machines in this host should be shut down and Back Up VMware ESXi Host Configuration.
+Download the upgrade file from VMware Official There are two types of upgrade files
+The .iso is bootable and follow instructions. The .zip is upgraded via SSH using CLI commands. In this scenario, I use Offline Bundle (.</description>
+    </item>
+    
+    <item>
+      <title>Renew DNS Servers in VMWare ESXi via ESXCLI Commands</title>
+      <link>https://www.kingtam.tk/posts/esxi-dns-update/</link>
+      <pubDate>Fri, 02 Jun 2023 16:34:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-dns-update/</guid>
+      <description>Renew DNS Servers in VMWare ESXi via ESXCLI Commands About Issue If you need to renew DNS servers on an ESXi host and are having trouble finding the DNS field in the ESXi portal, you can use ESXCLI commands to update the DNS servers.
+Procedure Enable SSH Service first on ESXi Open a console or SSH session to the ESXi host. 1 ssh root@esxi_ip_address List Current DNS server IP Address Run the command 1 esxcli network ip dns server list DNSServers: 10.</description>
+    </item>
+    
+  </channel>
+</rss>

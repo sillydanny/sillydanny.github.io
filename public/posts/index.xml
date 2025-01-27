@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/posts/</link>
+    <description>Recent content in Posts on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless SSH Access: Auto-Launch Git Bash on Windows 10 After Login</title>
+      <link>https://www.kingtam.tk/posts/ssh-to-win/</link>
+      <pubDate>Mon, 27 Jan 2025 20:21:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-to-win/</guid>
+      <description>Set Git Bash as the Default Shell for SSH on Windows 10</description>
+    </item>
+    
+    <item>
+      <title>Install FCITX Input Method on LMDE</title>
+      <link>https://www.kingtam.tk/posts/input/</link>
+      <pubDate>Tue, 05 Mar 2024 15:34:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/input/</guid>
+      <description>Install FCITX Input Method on LMDE</description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of vim-commentary Plug-in</title>
+      <link>https://www.kingtam.tk/posts/vim-commentary/</link>
+      <pubDate>Sun, 03 Dec 2023 16:32:26 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/vim-commentary/</guid>
+      <description>The incredible vim-commentary plug-in developed by [tpope]</description>
+    </item>
+    
+    <item>
+      <title>Secure Linux Login Connection</title>
+      <link>https://www.kingtam.tk/posts/ssh-key/</link>
+      <pubDate>Tue, 25 Jul 2023 16:47:52 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-key/</guid>
+      <description>Secure Linux Login Connection</description>
+    </item>
+    
+    <item>
+      <title>ttyd: Access Your Linux Terminal via Web Browser</title>
+      <link>https://www.kingtam.tk/posts/ttyd/</link>
+      <pubDate>Mon, 24 Jul 2023 14:35:21 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ttyd/</guid>
+      <description>ttyd: Access Your Linux Terminal via Web Browser</description>
+    </item>
+    
+    <item>
+      <title>Securely Transfer Files Over The Network</title>
+      <link>https://www.kingtam.tk/posts/sftp-scp/</link>
+      <pubDate>Fri, 21 Jul 2023 10:12:20 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/sftp-scp/</guid>
+      <description>Securely Transfer Files Over The Network</description>
+    </item>
+    
+    <item>
+      <title>SSH Tunneling</title>
+      <link>https://www.kingtam.tk/posts/ssh-tunneling/</link>
+      <pubDate>Wed, 19 Jul 2023 14:50:57 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-tunneling/</guid>
+      <description>SSH Tunneling</description>
+    </item>
+    
+    <item>
+      <title>Upgrade Debian from Buster to Bookworm</title>
+      <link>https://www.kingtam.tk/posts/buster2bookworm/</link>
+      <pubDate>Sat, 15 Jul 2023 19:24:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/buster2bookworm/</guid>
+      <description>Upgrade Debian from Buster to Bookworm</description>
+    </item>
+    
+    <item>
+      <title>Update CPU information on non-official Synology DSM system with ease</title>
+      <link>https://www.kingtam.tk/posts/ch-cpuinfo/</link>
+      <pubDate>Thu, 13 Jul 2023 13:14:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ch-cpuinfo/</guid>
+      <description>Update CPU information on non-official Synology DSM system with ease</description>
+    </item>
+    
+    <item>
+      <title>Automating DSM VM Creation on Proxmox VE with a Bash Script</title>
+      <link>https://www.kingtam.tk/posts/pve-dsm/</link>
+      <pubDate>Thu, 13 Jul 2023 10:09:14 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-dsm/</guid>
+      <description>Automating DSM VM Creation on Proxmox VE with a Bash Script</description>
+    </item>
+    
+    <item>
+      <title>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</title>
+      <link>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</link>
+      <pubDate>Tue, 11 Jul 2023 14:42:29 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</guid>
+      <description>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</description>
+    </item>
+    
+    <item>
+      <title>Create a reverse proxy for ARIA2&#39;s JSONRPC using NPM</title>
+      <link>https://www.kingtam.tk/posts/npm-aria2/</link>
+      <pubDate>Wed, 05 Jul 2023 15:57:26 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/npm-aria2/</guid>
+      <description>Create a reverse proxy for ARIA2&amp;rsquo;s JSONRPC using NPM</description>
+    </item>
+    
+    <item>
+      <title>How to Shrink VMDK Virtual Disk Size on VMWare ESXi</title>
+      <link>https://www.kingtam.tk/posts/vmdk-shrink/</link>
+      <pubDate>Wed, 05 Jul 2023 09:07:57 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/vmdk-shrink/</guid>
+      <description>How to Shrink VMDK Virtual Disk Size on VMWare ESXi</description>
+    </item>
+    
+    <item>
+      <title>Export VM to OVA using OVF Tool on VMware ESXi</title>
+      <link>https://www.kingtam.tk/posts/ova-export/</link>
+      <pubDate>Tue, 04 Jul 2023 16:15:25 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ova-export/</guid>
+      <description>Export VM to OVA using OVF Tool on VMware ESXi</description>
+    </item>
+    
+    <item>
+      <title>How to Join a Domain with an Existing Computer Account in Server</title>
+      <link>https://www.kingtam.tk/posts/link-domain/</link>
+      <pubDate>Fri, 30 Jun 2023 16:48:46 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/link-domain/</guid>
+      <description>How to Join a Domain with an Existing Computer Account in Server</description>
+    </item>
+    
+    <item>
+      <title>Download and Deploy Microsoft Office</title>
+      <link>https://www.kingtam.tk/posts/office/</link>
+      <pubDate>Fri, 30 Jun 2023 16:28:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/office/</guid>
+      <description>Download and Deploy Microsoft Office</description>
+    </item>
+    
+    <item>
+      <title>Windows and Office Activation Guide (KMS)</title>
+      <link>https://www.kingtam.tk/posts/kms/</link>
+      <pubDate>Fri, 30 Jun 2023 16:22:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/kms/</guid>
+      <description>Windows and Office Activation Guide (KMS)</description>
+    </item>
+    
+    <item>
+      <title>Use the Veeam Backup &amp; Replication to P2V</title>
+      <link>https://www.kingtam.tk/posts/veeam-p2v/</link>
+      <pubDate>Fri, 30 Jun 2023 15:34:19 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/veeam-p2v/</guid>
+      <description>Use the Veeam Backup &amp;amp; Replication to P2V</description>
+    </item>
+    
+    <item>
+      <title>Deploy OpenWrt with Docker Compose</title>
+      <link>https://www.kingtam.tk/posts/docker-openwrt/</link>
+      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/docker-openwrt/</guid>
+      <description>Use Docker to deploy OpenWrt with Docker Compose, it&amp;rsquo;s easy to create and manage containers, making it an ideal solution for deploying OpenWrt on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh-issue/</link>
+      <pubDate>Fri, 30 Jun 2023 08:13:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh-issue/</guid>
+      <description>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</description>
+    </item>
+    
+    <item>
+      <title>Universal Flashing Guide for Rockchip Devices</title>
+      <link>https://www.kingtam.tk/posts/rk3566-flash/</link>
+      <pubDate>Tue, 27 Jun 2023 17:05:06 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rk3566-flash/</guid>
+      <description>Universal Flashing Guide for Rockchip Devices</description>
+    </item>
+    
+    <item>
+      <title>Synology DSM Customization: Unlocking the Potential of NAS</title>
+      <link>https://www.kingtam.tk/posts/dsm-custom/</link>
+      <pubDate>Wed, 21 Jun 2023 09:05:18 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/dsm-custom/</guid>
+      <description>Synology DSM Customization: Unlocking the Potential of NAS</description>
+    </item>
+    
+    <item>
+      <title>Setting up NAT (Port Forwarding) on Cisco ASA 5512-X (based on ASDM)</title>
+      <link>https://www.kingtam.tk/posts/cisco-firewall-nat/</link>
+      <pubDate>Sat, 17 Jun 2023 11:01:02 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-firewall-nat/</guid>
+      <description>Setting up NAT (Port Forwarding) on Cisco ASA 5512-X (based on ASDM)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Router Connect to the Internet</title>
+      <link>https://www.kingtam.tk/posts/cisco-router-internet/</link>
+      <pubDate>Fri, 16 Jun 2023 13:46:58 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-router-internet/</guid>
+      <description>Cisco - Router Connect to the Internet</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Inter-VLAN Routing (Router on a Stick)</title>
+      <link>https://www.kingtam.tk/posts/cisco-inter-vlan/</link>
+      <pubDate>Fri, 16 Jun 2023 10:41:05 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-inter-vlan/</guid>
+      <description>Cisco - Inter-VLAN Routing (Router on a Stick)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - DHCP Relay Agent (IP Helper)</title>
+      <link>https://www.kingtam.tk/posts/cisco-ip-helper/</link>
+      <pubDate>Thu, 15 Jun 2023 11:05:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ip-helper/</guid>
+      <description>Cisco - DHCP Relay Agent (IP Helper)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Reset  Router to Factory Default Settings</title>
+      <link>https://www.kingtam.tk/posts/cisco-reset/</link>
+      <pubDate>Thu, 15 Jun 2023 09:08:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-reset/</guid>
+      <description>Cisco - Reset  Router to Factory Default Settings</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Password Recovery</title>
+      <link>https://www.kingtam.tk/posts/cisco-passwd-recovery/</link>
+      <pubDate>Thu, 15 Jun 2023 08:48:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-passwd-recovery/</guid>
+      <description>Cisco - Password Recovery</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Enable SSH Login</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh/</link>
+      <pubDate>Wed, 14 Jun 2023 17:03:27 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh/</guid>
+      <description>Cisco - Enable SSH Login</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Enable Password Protection</title>
+      <link>https://www.kingtam.tk/posts/cisco-passwd/</link>
+      <pubDate>Wed, 14 Jun 2023 16:24:38 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-passwd/</guid>
+      <description>Cisco - Enable Password Protection</description>
+    </item>
+    
+    <item>
+      <title>Deploy a Virtual Machine from an OVA File in the VMware ESXi</title>
+      <link>https://www.kingtam.tk/posts/esxi-deploy-vm/</link>
+      <pubDate>Mon, 12 Jun 2023 11:40:21 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-deploy-vm/</guid>
+      <description>Deploy a Virtual Machine from an OVA File in the VMware ESXi
+Web Deploy Limitation OVA deployment is limited to files under 1 GB in size due to Web browser limitations. To deploy an OVA file greater than 1 GB, extract the OVA file using tar and provide the OVF and VMDK files separately.
+Breakdown Limitation To deploy a large OVA file, Use OVFTool Command to Deploy OVA Packages is better solution.</description>
+    </item>
+    
+    <item>
+      <title>Set Git-Bash as Default Shell in Windows Terminal</title>
+      <link>https://www.kingtam.tk/posts/windows-git/</link>
+      <pubDate>Fri, 09 Jun 2023 15:32:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/windows-git/</guid>
+      <description>Set Git-Bash as Default Shell in Windows Terminal</description>
+    </item>
+    
+    <item>
+      <title>Linux Terminal Tab Completion</title>
+      <link>https://www.kingtam.tk/posts/linux-inputrc/</link>
+      <pubDate>Fri, 09 Jun 2023 15:01:00 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/linux-inputrc/</guid>
+      <description>Tab completion is a feature in the Linux terminal that allows you to quickly complete file and directory names</description>
+    </item>
+    
+    <item>
+      <title>Synchronization Solution on Windows (RSYNC)</title>
+      <link>https://www.kingtam.tk/posts/rsync-windows/</link>
+      <pubDate>Fri, 09 Jun 2023 09:34:28 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rsync-windows/</guid>
+      <description>Synchronization Solution on Windows (RSYNC)</description>
+    </item>
+    
+    <item>
+      <title>RSYNC USAGE</title>
+      <link>https://www.kingtam.tk/posts/rsync-usage/</link>
+      <pubDate>Thu, 08 Jun 2023 14:37:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rsync-usage/</guid>
+      <description>Introduction Rsync is an open-source application that provides fast incremental or mirror backup by leveraging built-in data deduplication algorithms. It is included in almost all Linux distributions.
+Features Can update whole directory trees and filesystems Optionally preserves symbolic links, hard links, file ownership, permissions, devices and times Requires no special privileges to install Internal pipelining reduces latency for multiple files Can use rsh, ssh or direct sockets as the transport Supports anonymous rsync which is ideal for mirroring Basic Use 1 rsync -option source/ destination/ Option Description -v Verbose mode, outputs detailed information -r Recurse into directories -a Archive mode (-rlptgoD, no -A, -X, -U, -N, -H) -h Output numbers in a human-readable format -z Use compression to transfer data -e Specify the remote shell to use -P Same as &amp;ndash;partial &amp;ndash;progress -W Copy files whole (without delta-xfer algorithm) &amp;ndash;progress Show progress during transfer &amp;ndash;delete Delete extraneous files from destination directories &amp;ndash;remove-source-files Sender removes synchronized files (non-dir) &amp;ndash;exclude=PATTERN Exclude files matching PATTERN &amp;ndash;include=PATTERN Don&amp;rsquo;t exclude files matching PATTERN &amp;ndash;copy-as=USER[:GROUP] Specify user and optional group for the copy &amp;ndash;chmod=CHMOD Affect file and/or directory permissions Samples 1 rsync -avh /home/user/data/ /mnt/backup Copy /home/user/data/ (as source directory) to /mnt/backup (as destination directory), using the options -avh.</description>
+    </item>
+    
+    <item>
+      <title>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli</title>
+      <link>https://www.kingtam.tk/posts/esxi-upgrade/</link>
+      <pubDate>Sat, 03 Jun 2023 14:38:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-upgrade/</guid>
+      <description>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli Preparation: Before deploying a host upgrade, ensure that all virtual machines in this host should be shut down and Back Up VMware ESXi Host Configuration.
+Download the upgrade file from VMware Official There are two types of upgrade files
+The .iso is bootable and follow instructions. The .zip is upgraded via SSH using CLI commands. In this scenario, I use Offline Bundle (.</description>
+    </item>
+    
+    <item>
+      <title>Renew DNS Servers in VMWare ESXi via ESXCLI Commands</title>
+      <link>https://www.kingtam.tk/posts/esxi-dns-update/</link>
+      <pubDate>Fri, 02 Jun 2023 16:34:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-dns-update/</guid>
+      <description>Renew DNS Servers in VMWare ESXi via ESXCLI Commands About Issue If you need to renew DNS servers on an ESXi host and are having trouble finding the DNS field in the ESXi portal, you can use ESXCLI commands to update the DNS servers.
+Procedure Enable SSH Service first on ESXi Open a console or SSH session to the ESXi host. 1 ssh root@esxi_ip_address List Current DNS server IP Address Run the command 1 esxcli network ip dns server list DNSServers: 10.</description>
+    </item>
+    
+    <item>
+      <title>Setting a static IP address in Linux</title>
+      <link>https://www.kingtam.tk/posts/linux-static-ip/</link>
+      <pubDate>Fri, 02 Jun 2023 12:16:06 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/linux-static-ip/</guid>
+      <description>Introduction: Usually, IP addresses are dynamically assigned by the router&amp;rsquo;s DHCP server on most network devices. But using a static IP address on the server makes the provided services more stable. If the DHCP server is not working, it will affect the computers in the local area network to obtain IP addresses, thereby affecting access to services, while servers with static IP addresses are not affected, so static IP is also necessary (on devices providing services).</description>
+    </item>
+    
+    <item>
+      <title>Configuring VLANs on a Host for PVE (Proxmox VE)</title>
+      <link>https://www.kingtam.tk/posts/pve-host-vlan/</link>
+      <pubDate>Tue, 30 May 2023 13:39:16 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-host-vlan/</guid>
+      <description>Configuring VLANs on a Host for Proxmox VE In today&amp;rsquo;s increasingly complex networking environments, Virtual Local Area Networks (VLANs) have become a crucial tool for managing network traffic and ensuring optimal performance.
+This blog post provides a step-by-step guide on configuring VLANs on a host for Proxmox Virtual Environment (VE), a popular open-source virtualization platform.
+Why use VLANs with Proxmox VE? VLANs allow you to segregate network traffic into isolated broadcast domains, improving security and reducing network congestion.</description>
+    </item>
+    
+    <item>
+      <title>PVE (Proxmox VE) Multi-port Identification</title>
+      <link>https://www.kingtam.tk/posts/pve-network-port/</link>
+      <pubDate>Tue, 30 May 2023 13:04:14 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-network-port/</guid>
+      <description>PVE (Proxmox VE) Multi-port Identification About: This is a post about network card (multiple ports) identification in the PVE system. Through the ethtool command, you can easily find the corresponding location of each network port.
+Operation Steps: Take Intel EXPI9402PTBLK 82571GB Network Adapter as an example
+Install the ethtool command
+1 apt update &amp;amp;&amp;amp; apt install ethtool -y ethtool can be used to view network device driver parameters and hardware configuration.</description>
+    </item>
+    
+    <item>
+      <title>Use WINSW To Setup FRP As Windows Service</title>
+      <link>https://www.kingtam.tk/posts/winsw-frpc/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/winsw-frpc/</guid>
+      <description>About: WinSW is a utility that allows you to wrap and manage a Windows service for any executable.
+frpc is a client for the frp (Fast Reverse Proxy) tool, which enables you to expose local servers to the internet.
+Procedure: To set up frpc as a Windows service using WinSW, follow these steps:
+Download WinSW Download the latest release of WinSW from the releases page. Choose the appropriate executable for your system, either WinSW-x64.</description>
+    </item>
+    
+    <item>
+      <title>Installing CUPS on PVE&#39;s LXC Container System</title>
+      <link>https://www.kingtam.tk/posts/pve-lxc-cups/</link>
+      <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-lxc-cups/</guid>
+      <description>Installing CUPS on PVE&amp;rsquo;s LXC Container System Introduction: At home, I use a Canon LBP6030 USB printer connected to a Padavan system on a router (Youku1) to enable wireless printing. However, wireless printing can only be achieved on the Windows platform, and on systems such as macOS and IOS from Apple, it cannot be achieved, causing some inconvenience.
+I came across this post on SMZDM N1刷armbian變身打印服務器, which can install CUPS software as a printer server system, and thus the following content was recorded.</description>
+    </item>
+    
+    <item>
+      <title>Managing LXC in Proxmox Virtual Environment (PVE)</title>
+      <link>https://www.kingtam.tk/posts/pve-lxc/</link>
+      <pubDate>Mon, 29 May 2023 13:08:23 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/pve-lxc/</guid>
+      <description>We will explore the syntax of managing LXC using PVE. Use commands that are commonly used by system administrators and cover the basics of creating, removing, and managing LXC in PVE.
+What&amp;rsquo;s LXC? LXC is a user space interface for the Linux kernel containment features. Through a powerful API and simple tools, it lets Linux users easily create and manage system or application containers.
+Template Image Creating an LXC in PVE is to download a template image.</description>
+    </item>
+    
+    <item>
+      <title>Set up SmartDNS in Alpine Linux (LXC)</title>
+      <link>https://www.kingtam.tk/posts/alpine-smartdns/</link>
+      <pubDate>Fri, 26 May 2023 12:08:55 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-smartdns/</guid>
+      <description>Set up SmartDNS in Alpine Linux (LXC) SmartDNS is a local DNS server that retrieves DNS query results from multiple upstream DNS servers and delivers the fastest results to clients. It supports secure DNS protocols such as DoT (DNS over TLS) and DoH (DNS over HTTPS), providing enhanced privacy protection, avoiding DNS pollution, and improving network access speed. Additionally, SmartDNS supports high-performance ad filtering for an overall better browsing experience</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux share the terminal over the web (ttyd)</title>
+      <link>https://www.kingtam.tk/posts/alpine-ttyd/</link>
+      <pubDate>Fri, 26 May 2023 12:03:43 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-ttyd/</guid>
+      <description>What is ttyd? What is ttyd? ttyd is a simple command-line program that allows you to share a terminal session over the web. It provides a web-based terminal interface for interacting with a Linux system, making it possible to access the system remotely from a web browser.
+Install ttyd in Alpine Linux Install ttyd in Alpine Linux Open the terminal and type the following command to update the packages list:</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux as a DHCP and DNS Server</title>
+      <link>https://www.kingtam.tk/posts/alpine-dhcp-dns/</link>
+      <pubDate>Fri, 26 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-dhcp-dns/</guid>
+      <description>dnsmasq is a lightweight, easy-to-configure DHCP and DNS server. I&amp;rsquo;ll demonstrate how to set up dnsmasq as both a DHCP and DNS server on a Linux system.
+Procedure Procedure Network Card Configuration : Network Card Configuration 1 ip address The physical interface eth1 is used to set up DHCP and DNS services.
+1 2 3 4 5 6 7 8 cat &amp;gt;&amp;gt; /etc/network/interfaces &amp;lt;&amp;lt; EOF auto eth1 iface eth1 inet static address 192.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux-based LXC with Docker support on a PVE host</title>
+      <link>https://www.kingtam.tk/posts/alpine-lxc-docker/</link>
+      <pubDate>Thu, 25 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-lxc-docker/</guid>
+      <description>Setting up an Alpine Linux-based Container (LXC) with Docker support on a Proxmox Virtual Environment (PVE) host.
+Lightweight and secure: Alpine Linux is a lightweight and secure distribution of Linux that is ideal for use in containers. It has a small footprint and is designed to minimize attack surface, making it a good choice for running Docker containers. Flexibility: Using an LXC container allows you to run multiple instances of Docker on a single host, each with its own isolated environment and resources.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux Customizations</title>
+      <link>https://www.kingtam.tk/posts/alpine-customization/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-customization/</guid>
+      <description>One of the benefits of using Alpine Linux is its flexibility and customizability, which allows users to tailor the system to their specific needs.
+Setting the timezone Check the current timezone
+1 date Timezone setting
+1 setup-timezone Which timezone are you in? (&amp;rsquo;?&amp;rsquo; for list) [UTC] Asia/Hong_Kong
+Suppose you want to use the Asia/ timezone and Hong_Kong as the sub-timezone of &amp;lsquo;Asia/&amp;rsquo;. You can input &amp;lsquo;?&amp;rsquo; to list the timezones to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux Package Management Tool</title>
+      <link>https://www.kingtam.tk/posts/alpine-apk/</link>
+      <pubDate>Wed, 24 May 2023 09:12:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-apk/</guid>
+      <description>About The package management tool used in Alpine Linux is apk. apk is a fast, lightweight, and efficient package management tool that has the following features:
+Native support for cross-compilation and cross-platform installation. Automatic handling of dependencies when installing and uninstalling packages. Support for multiple repositories, including official repositories, community repositories, and personal repositories. Simple command-line interface that allows users to perform various operations such as search, install, upgrade, and uninstall.</description>
+    </item>
+    
+    <item>
+      <title>Alpine Installation</title>
+      <link>https://www.kingtam.tk/posts/alpine-installation/</link>
+      <pubDate>Wed, 24 May 2023 09:03:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-installation/</guid>
+      <description>Why Alpine Linux Alpine Linux is a lightweight, security-focused, rolling release distribution with a fast and efficient package manager. It is highly customizable and compatible with a wide range of hardware architectures, making it suitable for use in a variety of environments.
+Preparation Download the Alpine Linux ISO image file from the official website: https://alpinelinux.org/downloads/ Write the ISO image file to a USB drive using a tool such as Rufus or Etcher.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Network on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/categories/network/</link>
+    <description>Recent content in Network on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 14:11:49 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy OpenWrt with Docker Compose</title>
+      <link>https://www.kingtam.tk/posts/docker-openwrt/</link>
+      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/docker-openwrt/</guid>
+      <description>Use Docker to deploy OpenWrt with Docker Compose, it&amp;rsquo;s easy to create and manage containers, making it an ideal solution for deploying OpenWrt on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh-issue/</link>
+      <pubDate>Fri, 30 Jun 2023 08:13:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh-issue/</guid>
+      <description>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</description>
+    </item>
+    
+    <item>
+      <title>Setting up NAT (Port Forwarding) on Cisco ASA 5512-X (based on ASDM)</title>
+      <link>https://www.kingtam.tk/posts/cisco-firewall-nat/</link>
+      <pubDate>Sat, 17 Jun 2023 11:01:02 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-firewall-nat/</guid>
+      <description>Setting up NAT (Port Forwarding) on Cisco ASA 5512-X (based on ASDM)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Router Connect to the Internet</title>
+      <link>https://www.kingtam.tk/posts/cisco-router-internet/</link>
+      <pubDate>Fri, 16 Jun 2023 13:46:58 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-router-internet/</guid>
+      <description>Cisco - Router Connect to the Internet</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Inter-VLAN Routing (Router on a Stick)</title>
+      <link>https://www.kingtam.tk/posts/cisco-inter-vlan/</link>
+      <pubDate>Fri, 16 Jun 2023 10:41:05 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-inter-vlan/</guid>
+      <description>Cisco - Inter-VLAN Routing (Router on a Stick)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - DHCP Relay Agent (IP Helper)</title>
+      <link>https://www.kingtam.tk/posts/cisco-ip-helper/</link>
+      <pubDate>Thu, 15 Jun 2023 11:05:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ip-helper/</guid>
+      <description>Cisco - DHCP Relay Agent (IP Helper)</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Reset  Router to Factory Default Settings</title>
+      <link>https://www.kingtam.tk/posts/cisco-reset/</link>
+      <pubDate>Thu, 15 Jun 2023 09:08:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-reset/</guid>
+      <description>Cisco - Reset  Router to Factory Default Settings</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Password Recovery</title>
+      <link>https://www.kingtam.tk/posts/cisco-passwd-recovery/</link>
+      <pubDate>Thu, 15 Jun 2023 08:48:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-passwd-recovery/</guid>
+      <description>Cisco - Password Recovery</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Enable SSH Login</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh/</link>
+      <pubDate>Wed, 14 Jun 2023 17:03:27 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh/</guid>
+      <description>Cisco - Enable SSH Login</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Enable Password Protection</title>
+      <link>https://www.kingtam.tk/posts/cisco-passwd/</link>
+      <pubDate>Wed, 14 Jun 2023 16:24:38 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-passwd/</guid>
+      <description>Cisco - Enable Password Protection</description>
+    </item>
+    
+  </channel>
+</rss>

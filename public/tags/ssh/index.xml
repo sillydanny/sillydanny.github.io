@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSH on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/ssh/</link>
+    <description>Recent content in SSH on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless SSH Access: Auto-Launch Git Bash on Windows 10 After Login</title>
+      <link>https://www.kingtam.tk/posts/ssh-to-win/</link>
+      <pubDate>Mon, 27 Jan 2025 20:21:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-to-win/</guid>
+      <description>Set Git Bash as the Default Shell for SSH on Windows 10</description>
+    </item>
+    
+    <item>
+      <title>Secure Linux Login Connection</title>
+      <link>https://www.kingtam.tk/posts/ssh-key/</link>
+      <pubDate>Tue, 25 Jul 2023 16:47:52 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-key/</guid>
+      <description>Secure Linux Login Connection</description>
+    </item>
+    
+    <item>
+      <title>Securely Transfer Files Over The Network</title>
+      <link>https://www.kingtam.tk/posts/sftp-scp/</link>
+      <pubDate>Fri, 21 Jul 2023 10:12:20 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/sftp-scp/</guid>
+      <description>Securely Transfer Files Over The Network</description>
+    </item>
+    
+    <item>
+      <title>SSH Tunneling</title>
+      <link>https://www.kingtam.tk/posts/ssh-tunneling/</link>
+      <pubDate>Wed, 19 Jul 2023 14:50:57 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-tunneling/</guid>
+      <description>SSH Tunneling</description>
+    </item>
+    
+    <item>
+      <title>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh-issue/</link>
+      <pubDate>Fri, 30 Jun 2023 08:13:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh-issue/</guid>
+      <description>Fixing Key Exchange and Cipher Issues on Cisco SG300-10P Switch</description>
+    </item>
+    
+    <item>
+      <title>Cisco - Enable SSH Login</title>
+      <link>https://www.kingtam.tk/posts/cisco-ssh/</link>
+      <pubDate>Wed, 14 Jun 2023 17:03:27 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/cisco-ssh/</guid>
+      <description>Cisco - Enable SSH Login</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux Customizations</title>
+      <link>https://www.kingtam.tk/posts/alpine-customization/</link>
+      <pubDate>Wed, 24 May 2023 11:03:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-customization/</guid>
+      <description>One of the benefits of using Alpine Linux is its flexibility and customizability, which allows users to tailor the system to their specific needs.
+Setting the timezone Check the current timezone
+1 date Timezone setting
+1 setup-timezone Which timezone are you in? (&amp;rsquo;?&amp;rsquo; for list) [UTC] Asia/Hong_Kong
+Suppose you want to use the Asia/ timezone and Hong_Kong as the sub-timezone of &amp;lsquo;Asia/&amp;rsquo;. You can input &amp;lsquo;?&amp;rsquo; to list the timezones to choose from.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/categories/</link>
+    <description>Recent content in Categories on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows</title>
+      <link>https://www.kingtam.tk/categories/windows/</link>
+      <pubDate>Mon, 27 Jan 2025 20:21:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://www.kingtam.tk/categories/linux/</link>
+      <pubDate>Tue, 05 Mar 2024 15:34:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVE</title>
+      <link>https://www.kingtam.tk/categories/pve/</link>
+      <pubDate>Thu, 13 Jul 2023 10:09:14 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/pve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESXi</title>
+      <link>https://www.kingtam.tk/categories/esxi/</link>
+      <pubDate>Tue, 11 Jul 2023 14:42:29 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/esxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://www.kingtam.tk/categories/network/</link>
+      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

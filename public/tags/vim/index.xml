@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vim on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/vim/</link>
+    <description>Recent content in vim on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 16:32:26 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unleashing the Power of vim-commentary Plug-in</title>
+      <link>https://www.kingtam.tk/posts/vim-commentary/</link>
+      <pubDate>Sun, 03 Dec 2023 16:32:26 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/vim-commentary/</guid>
+      <description>The incredible vim-commentary plug-in developed by [tpope]</description>
+    </item>
+    
+    <item>
+      <title>Synology DSM Customization: Unlocking the Potential of NAS</title>
+      <link>https://www.kingtam.tk/posts/dsm-custom/</link>
+      <pubDate>Wed, 21 Jun 2023 09:05:18 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/dsm-custom/</guid>
+      <description>Synology DSM Customization: Unlocking the Potential of NAS</description>
+    </item>
+    
+  </channel>
+</rss>

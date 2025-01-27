@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/categories/windows/</link>
+    <description>Recent content in Windows on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seamless SSH Access: Auto-Launch Git Bash on Windows 10 After Login</title>
+      <link>https://www.kingtam.tk/posts/ssh-to-win/</link>
+      <pubDate>Mon, 27 Jan 2025 20:21:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssh-to-win/</guid>
+      <description>Set Git Bash as the Default Shell for SSH on Windows 10</description>
+    </item>
+    
+    <item>
+      <title>How to Join a Domain with an Existing Computer Account in Server</title>
+      <link>https://www.kingtam.tk/posts/link-domain/</link>
+      <pubDate>Fri, 30 Jun 2023 16:48:46 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/link-domain/</guid>
+      <description>How to Join a Domain with an Existing Computer Account in Server</description>
+    </item>
+    
+    <item>
+      <title>Download and Deploy Microsoft Office</title>
+      <link>https://www.kingtam.tk/posts/office/</link>
+      <pubDate>Fri, 30 Jun 2023 16:28:41 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/office/</guid>
+      <description>Download and Deploy Microsoft Office</description>
+    </item>
+    
+    <item>
+      <title>Windows and Office Activation Guide (KMS)</title>
+      <link>https://www.kingtam.tk/posts/kms/</link>
+      <pubDate>Fri, 30 Jun 2023 16:22:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/kms/</guid>
+      <description>Windows and Office Activation Guide (KMS)</description>
+    </item>
+    
+    <item>
+      <title>Use the Veeam Backup &amp; Replication to P2V</title>
+      <link>https://www.kingtam.tk/posts/veeam-p2v/</link>
+      <pubDate>Fri, 30 Jun 2023 15:34:19 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/veeam-p2v/</guid>
+      <description>Use the Veeam Backup &amp;amp; Replication to P2V</description>
+    </item>
+    
+    <item>
+      <title>Set Git-Bash as Default Shell in Windows Terminal</title>
+      <link>https://www.kingtam.tk/posts/windows-git/</link>
+      <pubDate>Fri, 09 Jun 2023 15:32:51 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/windows-git/</guid>
+      <description>Set Git-Bash as Default Shell in Windows Terminal</description>
+    </item>
+    
+    <item>
+      <title>Synchronization Solution on Windows (RSYNC)</title>
+      <link>https://www.kingtam.tk/posts/rsync-windows/</link>
+      <pubDate>Fri, 09 Jun 2023 09:34:28 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rsync-windows/</guid>
+      <description>Synchronization Solution on Windows (RSYNC)</description>
+    </item>
+    
+    <item>
+      <title>RSYNC USAGE</title>
+      <link>https://www.kingtam.tk/posts/rsync-usage/</link>
+      <pubDate>Thu, 08 Jun 2023 14:37:31 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/rsync-usage/</guid>
+      <description>Introduction Rsync is an open-source application that provides fast incremental or mirror backup by leveraging built-in data deduplication algorithms. It is included in almost all Linux distributions.
+Features Can update whole directory trees and filesystems Optionally preserves symbolic links, hard links, file ownership, permissions, devices and times Requires no special privileges to install Internal pipelining reduces latency for multiple files Can use rsh, ssh or direct sockets as the transport Supports anonymous rsync which is ideal for mirroring Basic Use 1 rsync -option source/ destination/ Option Description -v Verbose mode, outputs detailed information -r Recurse into directories -a Archive mode (-rlptgoD, no -A, -X, -U, -N, -H) -h Output numbers in a human-readable format -z Use compression to transfer data -e Specify the remote shell to use -P Same as &amp;ndash;partial &amp;ndash;progress -W Copy files whole (without delta-xfer algorithm) &amp;ndash;progress Show progress during transfer &amp;ndash;delete Delete extraneous files from destination directories &amp;ndash;remove-source-files Sender removes synchronized files (non-dir) &amp;ndash;exclude=PATTERN Exclude files matching PATTERN &amp;ndash;include=PATTERN Don&amp;rsquo;t exclude files matching PATTERN &amp;ndash;copy-as=USER[:GROUP] Specify user and optional group for the copy &amp;ndash;chmod=CHMOD Affect file and/or directory permissions Samples 1 rsync -avh /home/user/data/ /mnt/backup Copy /home/user/data/ (as source directory) to /mnt/backup (as destination directory), using the options -avh.</description>
+    </item>
+    
+    <item>
+      <title>Use WINSW To Setup FRP As Windows Service</title>
+      <link>https://www.kingtam.tk/posts/winsw-frpc/</link>
+      <pubDate>Tue, 30 May 2023 10:06:48 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/winsw-frpc/</guid>
+      <description>About: WinSW is a utility that allows you to wrap and manage a Windows service for any executable.
+frpc is a client for the frp (Fast Reverse Proxy) tool, which enables you to expose local servers to the internet.
+Procedure: To set up frpc as a Windows service using WinSW, follow these steps:
+Download WinSW Download the latest release of WinSW from the releases page. Choose the appropriate executable for your system, either WinSW-x64.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>docker on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/docker/</link>
+    <description>Recent content in docker on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 16:22:32 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows and Office Activation Guide (KMS)</title>
+      <link>https://www.kingtam.tk/posts/kms/</link>
+      <pubDate>Fri, 30 Jun 2023 16:22:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/kms/</guid>
+      <description>Windows and Office Activation Guide (KMS)</description>
+    </item>
+    
+    <item>
+      <title>Deploy OpenWrt with Docker Compose</title>
+      <link>https://www.kingtam.tk/posts/docker-openwrt/</link>
+      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/docker-openwrt/</guid>
+      <description>Use Docker to deploy OpenWrt with Docker Compose, it&amp;rsquo;s easy to create and manage containers, making it an ideal solution for deploying OpenWrt on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>Synology DSM Customization: Unlocking the Potential of NAS</title>
+      <link>https://www.kingtam.tk/posts/dsm-custom/</link>
+      <pubDate>Wed, 21 Jun 2023 09:05:18 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/dsm-custom/</guid>
+      <description>Synology DSM Customization: Unlocking the Potential of NAS</description>
+    </item>
+    
+    <item>
+      <title>Alpine Linux-based LXC with Docker support on a PVE host</title>
+      <link>https://www.kingtam.tk/posts/alpine-lxc-docker/</link>
+      <pubDate>Thu, 25 May 2023 11:14:32 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/alpine-lxc-docker/</guid>
+      <description>Setting up an Alpine Linux-based Container (LXC) with Docker support on a Proxmox Virtual Environment (PVE) host.
+Lightweight and secure: Alpine Linux is a lightweight and secure distribution of Linux that is ideal for use in containers. It has a small footprint and is designed to minimize attack surface, making it a good choice for running Docker containers. Flexibility: Using an LXC container allows you to run multiple instances of Docker on a single host, each with its own isolated environment and resources.</description>
+    </item>
+    
+  </channel>
+</rss>

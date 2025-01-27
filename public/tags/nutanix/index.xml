@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nutanix on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/nutanix/</link>
+    <description>Recent content in Nutanix on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2023 14:42:29 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/nutanix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</title>
+      <link>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</link>
+      <pubDate>Tue, 11 Jul 2023 14:42:29 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-aos-cluster-shutdown/</guid>
+      <description>How To Safely Shut Down Your ESXi and Nutanix (AOS) Cluster</description>
+    </item>
+    
+  </channel>
+</rss>

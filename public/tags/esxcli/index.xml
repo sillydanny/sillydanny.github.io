@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>esxcli on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/esxcli/</link>
+    <description>Recent content in esxcli on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2023 14:38:12 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/esxcli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli</title>
+      <link>https://www.kingtam.tk/posts/esxi-upgrade/</link>
+      <pubDate>Sat, 03 Jun 2023 14:38:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-upgrade/</guid>
+      <description>Manual Upgrade ESXi from 6.7 to 8.0 via esxcli Preparation: Before deploying a host upgrade, ensure that all virtual machines in this host should be shut down and Back Up VMware ESXi Host Configuration.
+Download the upgrade file from VMware Official There are two types of upgrade files
+The .iso is bootable and follow instructions. The .zip is upgraded via SSH using CLI commands. In this scenario, I use Offline Bundle (.</description>
+    </item>
+    
+    <item>
+      <title>Renew DNS Servers in VMWare ESXi via ESXCLI Commands</title>
+      <link>https://www.kingtam.tk/posts/esxi-dns-update/</link>
+      <pubDate>Fri, 02 Jun 2023 16:34:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/esxi-dns-update/</guid>
+      <description>Renew DNS Servers in VMWare ESXi via ESXCLI Commands About Issue If you need to renew DNS servers on an ESXi host and are having trouble finding the DNS field in the ESXi portal, you can use ESXCLI commands to update the DNS servers.
+Procedure Enable SSH Service first on ESXi Open a console or SSH session to the ESXi host. 1 ssh root@esxi_ip_address List Current DNS server IP Address Run the command 1 esxcli network ip dns server list DNSServers: 10.</description>
+    </item>
+    
+  </channel>
+</rss>
