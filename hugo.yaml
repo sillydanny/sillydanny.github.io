@@ -34,8 +34,8 @@ params:
   comments: true
 
   homeInfoParams:
-    Title: "Hello Friends"
-    Content: Welcome to my blog. I wish the information in the blog could be helpful for you!
+    Title: "Hi!"
+    Content: "In the obsidian abyss of terminals, we salvage pearls of blinking cursors"
 
   socialIcons: # optional
       - name: "email"
