@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tmux on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/tmux/</link>
+    <description>Recent content in tmux on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2025 22:51:12 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tmux</title>
+      <link>https://www.kingtam.tk/posts/tmux/</link>
+      <pubDate>Fri, 21 Feb 2025 22:51:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/tmux/</guid>
+      <description>Tmux (short for Terminal Multiplexer) is a powerful tool that allows you to manage multiple terminal sessions within a single window.</description>
+    </item>
+    
+  </channel>
+</rss>
