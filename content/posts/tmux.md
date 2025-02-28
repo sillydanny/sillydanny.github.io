@@ -1,6 +1,6 @@
 ---
 title: "Tmux"
-date: 2025-02-20T20:35:52+08:00
+date: 2025-02-21T22:51:12+08:00
 draft: false
 author: "King Tam"
 summary: "Tmux (short for Terminal Multiplexer) is a powerful tool that allows you to manage multiple terminal sessions within a single window." 
@@ -9,7 +9,6 @@ categories:
 - Linux
 tags:
 - tmux
-- 
 ShowLastMod: true
 cover:
     image: "img/tmux/Cover-tmux.jpeg"

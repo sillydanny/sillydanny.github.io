@@ -411,6 +411,16 @@ Apply the changes:
 sysctl -p
 ```
 
+---
+
+
+### Execute all steps with a shell script.
+
+```bash
+wget -q https://kingtam.eu.org/scripts/alpine-init.sh -O alpine-init.sh && chmod +x alpine-init.sh && ./alpine-init.sh
+```
+
+> Compatible only with Alpine Linux.
 
 ---
 
