@@ -6,7 +6,69 @@
     <description>Recent content in Linux on King&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 15:34:12 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 01:19:15 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Console</title>
+      <link>https://www.kingtam.tk/posts/console/</link>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/console/</guid>
+      <description>Access the VM console on Proxmox Virtual Environment (PVE)</description>
+    </item>
+    
+    <item>
+      <title>sSMTP</title>
+      <link>https://www.kingtam.tk/posts/ssmtp/</link>
+      <pubDate>Tue, 25 Feb 2025 13:00:23 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/ssmtp/</guid>
+      <description>sSMTP is a simple MTA to deliver mail from a computer to a mail hub (SMTP server).</description>
+    </item>
+    
+    <item>
+      <title>Tmux</title>
+      <link>https://www.kingtam.tk/posts/tmux/</link>
+      <pubDate>Fri, 21 Feb 2025 22:51:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/tmux/</guid>
+      <description>Tmux (short for Terminal Multiplexer) is a powerful tool that allows you to manage multiple terminal sessions within a single window.</description>
+    </item>
+    
+    <item>
+      <title>PCT commands</title>
+      <link>https://www.kingtam.tk/posts/lxc-create/</link>
+      <pubDate>Wed, 12 Feb 2025 12:57:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/lxc-create/</guid>
+      <description>Using pct in Proxmox VE Proxmox VE (PVE) is a powerful open-source virtualization platform that supports both LXC containers and KVM virtual machines. The pct command line tool is specifically designed to manage LXC containers. Below is a detailed step-by-step guide to help master the pct command.
+1. Prerequisites Before using pct, ensure:
+Necessary OS templates (e.g., Ubuntu, Debian, CentOS) are downloaded from the Proxmox template repository. 2. Basic Commands 2.</description>
+    </item>
+    
+    <item>
+      <title>Use ADB to Push Files / Install APKs and Control Android Devices with Scrcpy</title>
+      <link>https://www.kingtam.tk/posts/adb-scrcpy/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/adb-scrcpy/</guid>
+      <description>Android Debug Bridge (ADB) is a versatile command-line tool that allows users to interact with Android devices.
+scrcpy is a powerful tool that allows users to control and mirror Android device&amp;rsquo;s screen on computer.
+Prerequisites: Enable Developer Options on Android device:
+Go to Settings &amp;gt; About phone. Tap Build number 7 times until you see a message saying &amp;ldquo;You are now a developer!&amp;rdquo; Enable USB Debugging:
+Go to Settings &amp;gt; System &amp;gt; Developer options.</description>
+    </item>
+    
+    <item>
+      <title>Iventoy</title>
+      <link>https://www.kingtam.tk/posts/iventoy/</link>
+      <pubDate>Wed, 29 Jan 2025 10:22:52 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/iventoy/</guid>
+      <description>Introduction iVentoy is another convenient tool developed by the author ( longpanda) of the famous ISO boot tool Ventoy. The goal of this tool is to enable booting and startup through the PXE server without even preparing a flash drive, and the system is also very convenient to use.
+Deploy SCENARIO01 (step-by-step) Download iVentoy Please use the root privilege to run below commands
+1 wget https://github.com/ventoy/PXE/releases/download/v1.0.20/iventoy-1.0.20-linux-free.tar.gz -O /tmp/iventoy.tar.gz Extract the Package 1 tar -xvzf /tmp/iventoy.</description>
+    </item>
+    
     <item>
       <title>Install FCITX Input Method on LMDE</title>
       <link>https://www.kingtam.tk/posts/input/</link>

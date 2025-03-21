@@ -6,7 +6,20 @@
     <description>Recent content in Windows on King&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 10:22:42 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use ADB to Push Files / Install APKs and Control Android Devices with Scrcpy</title>
+      <link>https://www.kingtam.tk/posts/adb-scrcpy/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/adb-scrcpy/</guid>
+      <description>Android Debug Bridge (ADB) is a versatile command-line tool that allows users to interact with Android devices.
+scrcpy is a powerful tool that allows users to control and mirror Android device&amp;rsquo;s screen on computer.
+Prerequisites: Enable Developer Options on Android device:
+Go to Settings &amp;gt; About phone. Tap Build number 7 times until you see a message saying &amp;ldquo;You are now a developer!&amp;rdquo; Enable USB Debugging:
+Go to Settings &amp;gt; System &amp;gt; Developer options.</description>
+    </item>
+    
     <item>
       <title>Seamless SSH Access: Auto-Launch Git Bash on Windows 10 After Login</title>
       <link>https://www.kingtam.tk/posts/ssh-to-win/</link>

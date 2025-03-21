@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>choco on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/choco/</link>
+    <description>Recent content in choco on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 10:22:42 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/choco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use ADB to Push Files / Install APKs and Control Android Devices with Scrcpy</title>
+      <link>https://www.kingtam.tk/posts/adb-scrcpy/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/adb-scrcpy/</guid>
+      <description>Android Debug Bridge (ADB) is a versatile command-line tool that allows users to interact with Android devices.
+scrcpy is a powerful tool that allows users to control and mirror Android device&amp;rsquo;s screen on computer.
+Prerequisites: Enable Developer Options on Android device:
+Go to Settings &amp;gt; About phone. Tap Build number 7 times until you see a message saying &amp;ldquo;You are now a developer!&amp;rdquo; Enable USB Debugging:
+Go to Settings &amp;gt; System &amp;gt; Developer options.</description>
+    </item>
+    
+  </channel>
+</rss>

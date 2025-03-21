@@ -6,7 +6,124 @@
     <description>Recent content in Tags on King&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Mar 2025 01:19:15 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>console</title>
+      <link>https://www.kingtam.tk/tags/console/</link>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lxc</title>
+      <link>https://www.kingtam.tk/tags/lxc/</link>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/lxc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVE</title>
+      <link>https://www.kingtam.tk/tags/pve/</link>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/pve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VM</title>
+      <link>https://www.kingtam.tk/tags/vm/</link>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smartmontools</title>
+      <link>https://www.kingtam.tk/tags/smartmontools/</link>
+      <pubDate>Tue, 25 Feb 2025 13:00:23 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/smartmontools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssmtp</title>
+      <link>https://www.kingtam.tk/tags/ssmtp/</link>
+      <pubDate>Tue, 25 Feb 2025 13:00:23 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/ssmtp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmux</title>
+      <link>https://www.kingtam.tk/tags/tmux/</link>
+      <pubDate>Fri, 21 Feb 2025 22:51:12 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/tmux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pct</title>
+      <link>https://www.kingtam.tk/tags/pct/</link>
+      <pubDate>Wed, 12 Feb 2025 12:57:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/pct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adb</title>
+      <link>https://www.kingtam.tk/tags/adb/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/adb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>choco</title>
+      <link>https://www.kingtam.tk/tags/choco/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/choco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrcpy</title>
+      <link>https://www.kingtam.tk/tags/scrcpy/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/scrcpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPXE</title>
+      <link>https://www.kingtam.tk/tags/ipxe/</link>
+      <pubDate>Wed, 29 Jan 2025 10:22:52 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/ipxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iVentoy</title>
+      <link>https://www.kingtam.tk/tags/iventoy/</link>
+      <pubDate>Wed, 29 Jan 2025 10:22:52 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/tags/iventoy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>git</title>
       <link>https://www.kingtam.tk/tags/git/</link>
@@ -395,15 +512,6 @@
     </item>
     
     <item>
-      <title>VM</title>
-      <link>https://www.kingtam.tk/tags/vm/</link>
-      <pubDate>Fri, 30 Jun 2023 15:34:19 +0800</pubDate>
-      
-      <guid>https://www.kingtam.tk/tags/vm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>docker-compose</title>
       <link>https://www.kingtam.tk/tags/docker-compose/</link>
       <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
@@ -742,15 +850,6 @@
       <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
       
       <guid>https://www.kingtam.tk/tags/cups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lxc</title>
-      <link>https://www.kingtam.tk/tags/lxc/</link>
-      <pubDate>Mon, 29 May 2023 14:55:24 +0800</pubDate>
-      
-      <guid>https://www.kingtam.tk/tags/lxc/</guid>
       <description></description>
     </item>
     

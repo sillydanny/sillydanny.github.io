@@ -3,27 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.kingtam.tk/categories/</loc>
-    <lastmod>2025-01-27T20:21:41+08:00</lastmod>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
   </url><url>
-    <loc>https://www.kingtam.tk/tags/git/</loc>
-    <lastmod>2025-01-27T20:21:41+08:00</lastmod>
+    <loc>https://www.kingtam.tk/tags/console/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/console/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/</loc>
-    <lastmod>2025-01-27T20:21:41+08:00</lastmod>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/categories/linux/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/lxc/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/posts/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/pve/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/vm/</loc>
+    <lastmod>2025-03-19T01:19:15+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/smartmontools/</loc>
+    <lastmod>2025-02-25T13:00:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/ssmtp/</loc>
+    <lastmod>2025-02-25T13:00:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/ssmtp/</loc>
+    <lastmod>2025-02-25T13:00:23+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/tmux/</loc>
+    <lastmod>2025-02-21T22:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/tmux/</loc>
+    <lastmod>2025-02-21T22:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/categories/network/</loc>
+    <lastmod>2025-02-12T12:57:07+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/pct/</loc>
+    <lastmod>2025-02-12T12:57:07+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/lxc-create/</loc>
+    <lastmod>2025-02-12T12:57:07+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/categories/pve/</loc>
+    <lastmod>2025-02-12T12:57:07+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/adb/</loc>
+    <lastmod>2025-02-06T10:22:42+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/choco/</loc>
+    <lastmod>2025-02-06T10:22:42+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/scrcpy/</loc>
+    <lastmod>2025-02-06T10:22:42+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/adb-scrcpy/</loc>
+    <lastmod>2025-02-06T10:22:42+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/categories/windows/</loc>
+    <lastmod>2025-02-06T10:22:42+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/ipxe/</loc>
+    <lastmod>2025-01-29T10:22:52+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/iventoy/</loc>
+    <lastmod>2025-01-29T10:22:52+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/posts/iventoy/</loc>
+    <lastmod>2025-01-29T10:22:52+08:00</lastmod>
+  </url><url>
+    <loc>https://www.kingtam.tk/tags/git/</loc>
     <lastmod>2025-01-27T20:21:41+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/posts/ssh-to-win/</loc>
     <lastmod>2025-01-27T20:21:41+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/ssh/</loc>
-    <lastmod>2025-01-27T20:21:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kingtam.tk/tags/</loc>
-    <lastmod>2025-01-27T20:21:41+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kingtam.tk/categories/windows/</loc>
     <lastmod>2025-01-27T20:21:41+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/cangjie/</loc>
@@ -33,9 +99,6 @@
     <lastmod>2024-03-05T15:34:12+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/posts/input/</loc>
-    <lastmod>2024-03-05T15:34:12+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kingtam.tk/categories/linux/</loc>
     <lastmod>2024-03-05T15:34:12+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/plug-in/</loc>
@@ -125,9 +188,6 @@
     <loc>https://www.kingtam.tk/tags/kvm/</loc>
     <lastmod>2023-07-13T10:09:14+08:00</lastmod>
   </url><url>
-    <loc>https://www.kingtam.tk/categories/pve/</loc>
-    <lastmod>2023-07-13T10:09:14+08:00</lastmod>
-  </url><url>
     <loc>https://www.kingtam.tk/tags/aos/</loc>
     <lastmod>2023-07-11T14:42:29+08:00</lastmod>
   </url><url>
@@ -209,16 +269,10 @@
     <loc>https://www.kingtam.tk/tags/veeam/</loc>
     <lastmod>2023-06-30T15:34:19+08:00</lastmod>
   </url><url>
-    <loc>https://www.kingtam.tk/tags/vm/</loc>
-    <lastmod>2023-06-30T15:34:19+08:00</lastmod>
-  </url><url>
     <loc>https://www.kingtam.tk/posts/docker-openwrt/</loc>
     <lastmod>2023-06-30T14:11:49+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/docker-compose/</loc>
-    <lastmod>2023-06-30T14:11:49+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kingtam.tk/categories/network/</loc>
     <lastmod>2023-06-30T14:11:49+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/openwrt/</loc>
@@ -399,9 +453,6 @@
     <lastmod>2023-05-29T14:55:24+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/posts/pve-lxc-cups/</loc>
-    <lastmod>2023-05-29T14:55:24+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kingtam.tk/tags/lxc/</loc>
     <lastmod>2023-05-29T14:55:24+08:00</lastmod>
   </url><url>
     <loc>https://www.kingtam.tk/tags/ct/</loc>

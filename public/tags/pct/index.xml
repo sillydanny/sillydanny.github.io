@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pct on King&#39;s Blog</title>
+    <link>https://www.kingtam.tk/tags/pct/</link>
+    <description>Recent content in pct on King&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 12:57:07 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/tags/pct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PCT commands</title>
+      <link>https://www.kingtam.tk/posts/lxc-create/</link>
+      <pubDate>Wed, 12 Feb 2025 12:57:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/posts/lxc-create/</guid>
+      <description>Using pct in Proxmox VE Proxmox VE (PVE) is a powerful open-source virtualization platform that supports both LXC containers and KVM virtual machines. The pct command line tool is specifically designed to manage LXC containers. Below is a detailed step-by-step guide to help master the pct command.
+1. Prerequisites Before using pct, ensure:
+Necessary OS templates (e.g., Ubuntu, Debian, CentOS) are downloaded from the Proxmox template repository. 2. Basic Commands 2.</description>
+    </item>
+    
+  </channel>
+</rss>

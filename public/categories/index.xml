@@ -6,31 +6,40 @@
     <description>Recent content in Categories on King&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 20:21:41 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Windows</title>
-      <link>https://www.kingtam.tk/categories/windows/</link>
-      <pubDate>Mon, 27 Jan 2025 20:21:41 +0800</pubDate>
-      
-      <guid>https://www.kingtam.tk/categories/windows/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 19 Mar 2025 01:19:15 +0800</lastBuildDate><atom:link href="https://www.kingtam.tk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://www.kingtam.tk/categories/linux/</link>
-      <pubDate>Tue, 05 Mar 2024 15:34:12 +0800</pubDate>
+      <pubDate>Wed, 19 Mar 2025 01:19:15 +0800</pubDate>
       
       <guid>https://www.kingtam.tk/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Network</title>
+      <link>https://www.kingtam.tk/categories/network/</link>
+      <pubDate>Wed, 12 Feb 2025 12:57:07 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PVE</title>
       <link>https://www.kingtam.tk/categories/pve/</link>
-      <pubDate>Thu, 13 Jul 2023 10:09:14 +0800</pubDate>
+      <pubDate>Wed, 12 Feb 2025 12:57:07 +0800</pubDate>
       
       <guid>https://www.kingtam.tk/categories/pve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://www.kingtam.tk/categories/windows/</link>
+      <pubDate>Thu, 06 Feb 2025 10:22:42 +0800</pubDate>
+      
+      <guid>https://www.kingtam.tk/categories/windows/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Tue, 11 Jul 2023 14:42:29 +0800</pubDate>
       
       <guid>https://www.kingtam.tk/categories/esxi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network</title>
-      <link>https://www.kingtam.tk/categories/network/</link>
-      <pubDate>Fri, 30 Jun 2023 14:11:49 +0800</pubDate>
-      
-      <guid>https://www.kingtam.tk/categories/network/</guid>
       <description></description>
     </item>
     
